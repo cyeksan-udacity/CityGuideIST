@@ -1,0 +1,1391 @@
+<resources>
+
+    <!--For all descriptions, credit goes to wikipedia.org -->
+    <!-- Since there are lots of photos, I could not give source, but this project is prepared only for learning purposes. -->
+
+    <string name="app_name">City GuideIST</string>
+
+    <string name="home">Home</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="popular_places">Popular Places</string>
+    <string name="museums">Museums</string>
+    <string name="cafe_restaurant">Cafe &amp; Restaurant</string>
+    <string name="cinema">Cinema</string>
+    <string name="shopping">Shopping</string>
+    <string name="hotels">Hotels</string>
+    <string name="bus">Bus</string>
+    <string name="airports">Airports</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="transportation">Transportation</string>
+
+
+    <string name="topkapi_palace">Topkapı Palace</string>
+    <string name="maidens_tower">Maiden\'s Tower</string>
+    <string name="blue_mosque">Blue Mosque</string>
+    <string name="spice_bazaar">Spice Bazaar</string>
+    <string name="yedikule_fortress">Yedikule Fortress</string>
+    <string name="pera_museum">Pera Museum</string>
+    <string name="istanbul_modern">İstanbul Modern</string>
+    <string name="nusret">Nusr-Et</string>
+    <string name="mall_of_istanbul">Mall of İstanbul</string>
+    <string name="armada_hotel">Armada Hotel</string>
+
+
+    <string name="topkapi_palace_hook">İstanbul\'s center for 400 years</string>
+    <string name="maidens_tower_hook">Source of legends</string>
+    <string name="blue_mosque_hook">A historic masterpiece</string>
+    <string name="spice_bazaar_hook">Most colorful bazaar in Turkey</string>
+    <string name="yedikule_fortress_hook">Dungeons of horror in Ottoman</string>
+    <string name="pera_museum_hook">Art in Beyoğlu</string>
+    <string name="istanbul_modern_hook">Modern face of İstanbul</string>
+    <string name="nusret_hook">Wordly famous saltbae</string>
+    <string name="mall_of_istanbul_hook">İstanbul\'s shopping star</string>
+    <string name="armada_hotel_hook">A great experience</string>
+
+    <string name="topkapi_palace_short_address">Fatih</string>
+    <string name="maidens_tower_short_address">Üsküdar</string>
+    <string name="blue_mosque_short_address">Fatih</string>
+    <string name="spice_bazaar_short_address">Fatih</string>
+    <string name="yedikule_fortress_short_address">Fatih</string>
+    <string name="pera_museum_short_address">Beyoğlu</string>
+    <string name="istanbul_modern_short_address">Beyoğlu</string>
+    <string name="nusret_short_address">Beşiktaş</string>
+    <string name="mall_of_istanbul_short_address">Başakşehir</string>
+    <string name="armada_hotel_short_address">Fatih</string>
+
+    <string name="topkapi_palace_long_address">Cankurtaran Mh., 34122 Fatih/İstanbul</string>
+    <string name="maidens_tower_long_address">Salacak Mahallesi, Üsküdar Salacak Mevkii, 34668 Üsküdar/İstanbul</string>
+    <string name="blue_mosque_long_address">Sultan Ahmet Mahallesi, Atmeydanı Cd. No:7, 34122 Fatih/İstanbul</string>
+    <string name="spice_bazaar_long_address">Rüstem Paşa Mahallesi, Erzak Ambarı Sok. No:92, 34116 Fatih/İstanbul</string>
+    <string name="yedikule_fortress_long_address">Yedikule Mahallesi, Yedikule Meydanı Sk. No:9, 34107 Fatih/İstanbul</string>
+    <string name="pera_museum_long_address">Asmalı Mescit Mahallesi, Meşrutiyet Cd. No:65, 34430 Beyoğlu/İstanbul</string>
+    <string name="istanbul_modern_long_address">Kılıçali Paşa Mahallesi, Meclis-i Mebusan Cd. No:4, 34433 Beyoğlu/İstanbul</string>
+    <string name="nusret_long_address">Etiler Mahallesi, Nispetiye Cd No:87, 34337 Beşiktaş/İstanbul</string>
+    <string name="mall_of_istanbul_long_address">Ziya Gökalp Mahallesi, Süleyman Demirel Blv No:7, 34306 İkitelli Osb/Başakşehir/İstanbul</string>
+    <string name="armada_hotel_long_address">Cankurtaran Mh., Ahırkapı Cd No:24, 34122 Fatih/İstanbul</string>
+
+    <string name="topkapi_palace_description">"Topkapı Palace is a large museum in Istanbul, Turkey. In the 15th century, it served as the main residence and administrative headquarters of the Ottoman sultans.
+Construction began in 1459, ordered by Mehmed the Conqueror, six years after the conquest of Constantinople. Topkapı was originally called the ""New Palace"" to distinguish it from the Old Palace in Beyazıt Square. It was given the name Topkapı, meaning Cannon Gate, in the 19th century."</string>
+    <string name="maidens_tower_description">The Maiden\'s Tower, also known as Leander\'s Tower (Tower of Leandros) since the medieval Byzantine period, is a tower lying on a small islet located at the southern entrance of the Bosphorus strait 200 m (220 yd) from the coast of Üsküdar in Istanbul, Turkey.
+</string>
+    <string name="blue_mosque_description">The Blue Mosque or Sultan Ahmet Mosque is a historic mosque located in Istanbul, Turkey. A popular tourist site, the Sultan Ahmed Mosque continues to function as a mosque today; men still kneel in prayer on the mosque\'s lush red carpet after the call to prayer.
+</string>
+    <string name="spice_bazaar_description">"The Spice Bazaar  in Istanbul, Turkey is one of the largest bazaars in the city. Located in the Eminönü quarter of the Fatih district, it is the most famous covered shopping complex after the Grand Bazaar.
+There are several documents suggesting the name of the bazaar was first ""New Bazaar"". The building was endowed to the foundation of the New Mosque, and got its name ""Egyptian Bazaar"" because it was built with the revenues from the Ottoman eyalet of Egypt in 1660."</string>
+    <string name="yedikule_fortress_description">"Yedikule Fortress  is a fortified historic structure located in the Yedikule neighbourhood of Fatih, in Istanbul, Turkey.
+Built in 1458 on the commission of Ottoman Sultan Mehmed II, the seven-tower complex was created by adding three new towers and fully enclosing a section of the ancient Walls of Constantinople, including the two twin towers that originally constituted the triumphal Golden Gate built by Byzantine Emperors Theodosius I and Theodosius II."
+    </string>
+    <string name="pera_museum_description">Pera Museum is an art museum in the Tepebaşı quarter of the Beyoğlu (Pera) district in Istanbul, Turkey, located at Meşrutiyet Avenue No. 65 (adjacent to İstiklal Avenue and in close proximity to Taksim Square). It has a particular focus on Orientalism in 19th-century art.
+</string>
+    <string name="istanbul_modern_description">İstanbul Modern, a.k.a. Istanbul Museum of Modern Art, is a museum of contemporary art in the Beyoğlu district of Istanbul, Turkey. Inaugurated on December 11, 2004, the museum focuses on artists from Turkey.
+</string>
+
+    <string name="topkapi_palace_work_hours">09.00&#8211;16:45</string>
+    <string name="maidens_tower_work_hours">09:15&#8211;18:45</string>
+    <string name="blue_mosque_work_hours">Open for 24 hours</string>
+    <string name="spice_bazaar_work_hours">08:00&#8211;19:00</string>
+    <string name="yedikule_fortress_work_hours">08:00&#8211;18:00</string>
+    <string name="pera_museum_work_hours">10:00&#8211;19:00</string>
+    <string name="istanbul_modern_work_hours">10:00&#8211;18:00</string>
+    <string name="nusret_work_hours">12:00&#8211;01:00</string>
+    <string name="mall_of_istanbul_work_hours">10:00&#8211;22:30</string>
+    <string name="armada_hotel_price">289₺</string>
+
+    <string name="topkapi_palace_phone">+90 (0212) 512 04 80</string>
+    <string name="maidens_tower_phone">+90 (0216) 342 47 47</string>
+    <string name="blue_mosque_phone">+90 (212) 458 44 68</string>
+    <string name="spice_bazaar_phone">+90 (0212) 513 65 97</string>
+    <string name="yedikule_fortress_phone"></string>
+    <string name="pera_museum_phone">+90 (0212) 334 99 00
+</string>
+    <string name="istanbul_modern_phone">+90 (0212) 334 73 00
+</string>
+    <string name="nusret_phone">+90 (0212) 358 30 22
+    </string>
+    <string name="mall_of_istanbul_phone">+90 (0212) 801 10 00
+</string>
+    <string name="armada_hotel_phone">+90 (0212) 455 44 55
+</string>
+
+    <string name="topkapi_palace_web">www.topkapisarayi.gov.tr/tr
+</string>
+    <string name="maidens_tower_web">www.kizkulesi.com.tr
+</string>
+    <string name="blue_mosque_web">www.sultanahmetcamii.org
+</string>
+    <string name="spice_bazaar_web">www.misircarsisi.org.tr
+</string>
+    <string name="yedikule_fortress_web"></string>
+    <string name="pera_museum_web">www.peramuzesi.org.tr
+</string>
+    <string name="istanbul_modern_web">www.istanbulmodern.org
+</string>
+    <string name="nusret_web">www.nusr-et.com.tr
+    </string>
+    <string name="mall_of_istanbul_web">www.mallofistanbul.com.tr
+</string>
+    <string name="armada_hotel_web">www.armadahotel.com.tr
+</string>
+
+
+    <string-array name="popular_places_name">
+        <item>Hagia Sophia</item>
+        <item>Topkapı Palace</item>
+        <item>Blue Mosque</item>
+        <item>Basilica Cistern</item>
+        <item>Hippodrome Square</item>
+        <item>Grand Bazaar</item>
+        <item>Süleymaniye Mosque</item>
+        <item>Spice Bazaar</item>
+        <item>Dolmabahçe Palace</item>
+        <item>Yedikule Fortress</item>
+        <item>Galata Tower</item>
+        <item>Maiden\'s Tower</item>
+    </string-array>
+    <string-array name="popular_places_latitude">
+        <item>41.009458
+        </item>
+        <item>41.011843
+        </item>
+        <item>41.006365
+        </item>
+        <item>41.009307
+        </item>
+        <item>41.007987
+        </item>
+        <item>41.011154
+        </item>
+        <item>41.017262
+        </item>
+        <item>41.017617
+        </item>
+        <item>41.040249
+        </item>
+        <item>40.994273
+        </item>
+        <item>41.026491
+        </item>
+        <item>41.022077
+        </item>
+    </string-array>
+
+    <string-array name="popular_places_longitude">
+        <item>28.979919
+        </item>
+        <item>28.983400
+        </item>
+        <item>28.976857
+        </item>
+        <item>28.978007
+        </item>
+        <item>28.976301
+        </item>
+        <item>28.968047
+        </item>
+        <item>28.964110
+        </item>
+        <item>28.970305
+        </item>
+        <item>29.000545
+        </item>
+        <item>28.921123
+        </item>
+        <item>28.974221
+        </item>
+        <item>29.004153
+</item>
+    </string-array>
+    <string-array name="popular_places_short_address">
+        <item>Fatih</item>
+        <item>Fatih</item>
+        <item>Fatih</item>
+        <item>Fatih</item>
+        <item>Fatih</item>
+        <item>Fatih</item>
+        <item>Fatih</item>
+        <item>Fatih</item>
+        <item>Beşiktaş</item>
+        <item>Fatih</item>
+        <item>Beyoğlu</item>
+        <item>Üsküdar</item>
+    </string-array>
+
+
+
+    <string-array name="popular_places_long_address">
+        <item>Sultan Ahmet Mahallesi, Ayasofya Meydanı, 34122 Fatih/İstanbul</item>
+        <item>Cankurtaran Mh., 34122 Fatih/İstanbul</item>
+        <item>Sultan Ahmet Mahallesi, Atmeydanı Cd. No:7, 34122 Fatih/İstanbul</item>
+        <item>Alemdar Mh., Yerebatan Cd. 1&#8531;3, 34410 Fatih/İstanbul</item>
+        <item>Binbirdirek Mh., Sultan Ahmet Parkı No:2, 34122 Fatih/İstanbul</item>
+        <item>Beyazıt Mh., 34126 Fatih/İstanbul</item>
+        <item>Süleymaniye Mah., Prof. Sıddık Sami Onar cad. No:1, 34116 Fatih/İstanbul</item>
+        <item>Rüstem Paşa Mahallesi, Erzak Ambarı Sok. No:92, 34116 Fatih/İstanbul</item>
+        <item>Vişnezade Mahallesi, Dolmabahçe Cd., 34357 Beşiktaş/İstanbul</item>
+        <item>Yedikule Mahallesi, Yedikule Meydanı Sk. No:9, 34107 Fatih/İstanbul</item>
+        <item>Bereketzade Mahallesi, Galata Kulesi, 34421 Beyoğlu/İstanbul</item>
+        <item>Salacak Mahallesi, Üsküdar Salacak Mevkii, 34668 Üsküdar/İstanbul</item>
+    </string-array>
+
+    <string-array name="popular_places_phone">
+        <item>+90 (212) 522 17 50
+</item>
+        <item>+90 (0212) 512 04 80
+
+</item>
+        <item>+90 (212) 458 44 68
+
+</item>
+        <item>+90 (0212) 522 12 59
+</item>
+        <item></item>
+        <item>+90 (0212) 519 12 48
+</item>
+        <item>+90 (0212) 524 64 10
+</item>
+        <item>+90 (0212) 513 65 97
+</item>
+        <item>+90 (0212) 236 90 00
+</item>
+        <item></item>
+        <item></item>
+        <item>+90 (0216) 342 47 47
+</item>
+    </string-array>
+
+
+    <string-array name="popular_places_webpage">
+        <item>www.ayasofyamuzesi.gov.tr
+</item>
+        <item>www.topkapisarayi.gov.tr/tr
+</item>
+        <item>www.sultanahmetcamii.org
+</item>
+        <item>www.yerebatansarnici.com
+</item>
+        <item></item>
+        <item>www.kapalicarsi.org.tr
+</item>
+        <item>www.fatihmuftulugu.gov.tr
+</item>
+        <item>www.misircarsisi.org.tr
+</item>
+        <item>www.millisaraylar.gov.tr
+</item>
+        <item></item>
+        <item>www.galatakulesi.org
+</item>
+        <item>www.kizkulesi.com.tr
+</item>
+    </string-array>
+
+    <string-array name="popular_places_working_hours">
+        <item>09.00-17.00
+</item>
+        <item>09.00-16:45
+</item>
+        <item>Open for 24 hours
+</item>
+        <item>09.00-17.30
+</item>
+        <item>Open for 24 hours
+</item>
+        <item>08:30-19:00
+</item>
+        <item>Open for 24 hours
+</item>
+        <item>08:00-19:00
+</item>
+        <item>09:00-16:00
+</item>
+        <item>08:00-18:00
+</item>
+        <item>09:00-20:30
+</item>
+        <item>09:15-18:45
+</item>
+    </string-array>
+
+    <string-array name="popular_places_description">
+        <item>Hagia Sophia was a Greek Orthodox Christian patriarchal basilica (church), later an imperial mosque, and is now a museumin Istanbul, Turkey. From the date of its construction in 537 AD, and until 1453, it served as an Eastern Orthodox cathedral and seat of the Patriarch of Constantinople, except between 1204 and 1261, when it was converted by the Fourth Crusaders to a Roman Catholic cathedral under the Latin Empire.
+</item>
+        <item>"Topkapı Palace is a large museum in Istanbul, Turkey. In the 15th century, it served as the main residence and administrative headquarters of the Ottoman sultans.
+Construction began in 1459, ordered by Mehmed the Conqueror, six years after the conquest of Constantinople. Topkapı was originally called the ""New Palace"" to distinguish it from the Old Palace in Beyazıt Square. It was given the name Topkapı, meaning Cannon Gate, in the 19th century."
+</item>
+        <item>The Blue Mosque or Sultan Ahmet Mosque is a historic mosque located in Istanbul, Turkey. A popular tourist site, the Sultan Ahmed Mosque continues to function as a mosque today; men still kneel in prayer on the mosque\'s lush red carpet after the call to prayer.
+</item>
+        <item>The Basilica Cistern is the largest of several hundred ancient cisterns that lie beneath the city of Istanbul (formerly Constantinople), Turkey. The cistern, located 150 metres (490 ft) southwest of the Hagia Sophia on the historical peninsula of Sarayburnu, was built in the 6th century during the reign of Byzantine Emperor Justinian
+</item>
+        <item>The Hippodrome of Constantinople was a circus that was the sporting and social centre of Constantinople, capital of the Byzantine Empire. Today it is a square named Sultanahmet Meydanı (Sultan Ahmet Square) in the Turkish city of Istanbul, with a few fragments of the original structure surviving.
+</item>
+        <item>The Grand Bazaar in Istanbul is one of the largest and oldest covered markets in the world, with 61 covered streets and over 4,000 shops which attract between 250,000 and 400,000 visitors daily. In 2014, it was listed No.1 among world\'s most-visited tourist attractions with 91,250,000 annual visitors. The Grand Bazar at Istanbul is often regarded as one of the first shopping malls of the world.
+</item>
+        <item>"The Süleymaniye Mosque is an Ottoman imperial mosque located on the Third Hill of Istanbul, Turkey. It is the second largest mosque in the city, and one of the best-known sights of Istanbul.
+The Süleymaniye Mosque, built on the order of Sultan Süleyman (Süleyman the Magnificent), ""was fortunate to be able to draw on the talents of the architectural genius of Mimar Sinan"" (481 Traditions and Encounters: Brief Global History). The construction work began in 1550 and the mosque was finished in 1557."
+</item>
+        <item>"The Spice Bazaar  in Istanbul, Turkey is one of the largest bazaars in the city. Located in the Eminönü quarter of the Fatih district, it is the most famous covered shopping complex after the Grand Bazaar.
+There are several documents suggesting the name of the bazaar was first ""New Bazaar"". The building was endowed to the foundation of the New Mosque, and got its name ""Egyptian Bazaar"" because it was built with the revenues from the Ottoman eyalet of Egypt in 1660."
+</item>
+        <item>"Dolmabahçe Palace located in the Beşiktaş district of Istanbul, Turkey, on the European coast of the Bosphorus, served as the main administrative center of the Ottoman Empire from 1856 to 1887 and 1909 to 1922 (Yıldız Palace was used in the interim).
+Today, the palace is managed by Milli Saraylar Daire Başkanlığı (Directorate of National Palaces) responsible to the Grand National Assembly of Turkey. The only way to see the interior of Dolmabahçe is with a guided tour."
+</item>
+        <item>"Yedikule Fortress  is a fortified historic structure located in the Yedikule neighbourhood of Fatih, in Istanbul, Turkey.
+Built in 1458 on the commission of Ottoman Sultan Mehmed II, the seven-tower complex was created by adding three new towers and fully enclosing a section of the ancient Walls of Constantinople, including the two twin towers that originally constituted the triumphal Golden Gate built by Byzantine Emperors Theodosius I and Theodosius II."
+</item>
+        <item>The Galata Tower is a medieval stone tower in the Galata/Karaköy quarter of Istanbul, Turkey, just to the north of the Golden Horn\'s junction with the Bosphorus. One of the city\'s most striking landmarks, it is a high, cone-capped cylinder that dominates the skyline and offers a panoramic vista of Istanbul\'s historic peninsula and its environs.
+</item>
+        <item>The Maiden\'s Tower, also known as Leander\'s Tower (Tower of Leandros) since the medieval Byzantine period, is a tower lying on a small islet located at the southern entrance of the Bosphorus strait 200 m (220 yd) from the coast of Üsküdar in Istanbul, Turkey.
+</item>
+    </string-array>
+
+
+
+    <string-array name="museum_name">
+        <item>Turkish and Islamic Arts Museum
+</item>
+        <item>Rahmi M. Koç Museum
+</item>
+        <item>İstanbul Modern
+</item>
+        <item>Chora Museum
+</item>
+        <item>Pera Museum
+</item>
+        <item>Sakıp Sabancı Museum
+</item>
+        <item>Harbiye Military Museum
+</item>
+        <item>İstanbul Naval Museum
+</item>
+        <item>İstanbul Archeology Museums
+</item>
+        <item>İstanbul Aviation Museum
+</item>
+        <item>Galata Mevlevi House Museum
+</item>
+
+    </string-array>
+
+    <string-array name="museum_latitude">
+        <item>41.007147
+        </item>
+        <item>41.043060
+        </item>
+        <item>41.027666
+        </item>
+        <item>41.032160
+        </item>
+        <item>41.032642
+        </item>
+        <item>41.106576
+        </item>
+        <item>41.050256
+        </item>
+        <item>41.042470
+        </item>
+        <item>41.012706
+        </item>
+        <item>40.965042
+        </item>
+        <item>41.029116
+        </item>
+    </string-array>
+
+    <string-array name="museum_longitude">
+        <item> 28.974548
+        </item>
+        <item> 28.948323
+        </item>
+        <item>28.984402
+        </item>
+        <item>28.939188
+        </item>
+        <item>28.975200
+        </item>
+        <item>29.056826
+        </item>
+        <item>28.988233
+        </item>
+        <item>29.005443
+        </item>
+        <item>28.981202
+        </item>
+        <item>28.826172
+        </item>
+        <item>28.975002
+        </item>
+
+    </string-array>
+
+    <string-array name="museum_short_address">
+        <item>Fatih
+</item>
+        <item>Beyoğlu
+</item>
+        <item>Beyoğlu
+</item>
+        <item>Fatih
+</item>
+        <item>Beyoğlu
+</item>
+        <item>Sarıyer
+</item>
+        <item>Şişli
+</item>
+        <item>Beşiktaş
+</item>
+        <item>Fatih
+</item>
+        <item>Bakırköy
+</item>
+        <item>Beyoğlu
+</item>
+
+    </string-array>
+
+    <string-array name="museum_long_address">
+        <item>Sultan Ahmet Mahallesi, Meydanı Sok. No:46, 34122 Fatih/İstanbul
+</item>
+        <item>Keçeci Piri Mahallesi, Rahmi M. Koç Museum Hasköy Cad. No:5, 34445 Beyoğlu/İstanbul
+</item>
+        <item>Kılıçali Paşa Mahallesi, Meclis-i Mebusan Cd. No:4, 34433 Beyoğlu/İstanbul
+</item>
+        <item>Dervişali Mahallesi, Kariye Cami Sk. No:8, 34087 Fatih/İstanbul
+</item>
+        <item>Asmalı Mescit Mahallesi, Meşrutiyet Cd. No:65, 34430 Beyoğlu/İstanbul
+</item>
+        <item>Emirgan Mahallesi, Sakıp Sabancı Cd. No:42, 34467 Sarıyer/İstanbul
+</item>
+        <item>Halaskargazi Mahallesi, Vali Konağı Cd. No:2, 34772 Şişli/İstanbul
+</item>
+        <item>Sinanpaşa Mahallesi, Beşiktaş Cd. 6/1, 34353 Beşiktaş/İstanbul
+</item>
+        <item>Cankurtaran Mh., 34122 Fatih/İstanbul
+</item>
+        <item>Yeşilköy Mahallesi, Eski Havaalanı Caddesi, 34149 Bakırköy/İstanbul
+</item>
+        <item>Şahkulu Mh., Galip Dede Cd. No:15, 34420 Beyoğlu/İstanbul
+</item>
+
+    </string-array>
+
+    <string-array name="museum_phone">
+        <item>+90 (0212) 518 18 05
+</item>
+        <item>+90 (0212) 369 66 00
+</item>
+        <item> +90 (0212) 334 73 00
+</item>
+        <item>+ 90 (0212) 631 92 41
+</item>
+        <item>+90 (0212) 334 99 00
+</item>
+        <item>+90 (0212) 277 22 00
+</item>
+        <item>+90 (0212) 233 27 20
+</item>
+        <item>+90 (0212) 327 43 45
+</item>
+        <item>(0212) 520 77 41
+</item>
+        <item>+90 (0212) 663 24 90
+</item>
+        <item>+90 (0212) 245 41 41
+</item>
+    </string-array>
+
+    <string-array name="museum_webpage">
+        <item>www.istanbul.gov.tr
+</item>
+        <item>www.rmk-museum.org.tr
+</item>
+        <item>www.istanbulmodern.org
+</item>
+        <item>www.kariye.muze.gov.tr
+</item>
+        <item>www.peramuzesi.org.tr
+</item>
+        <item>www.sakipsabancimuzesi.org
+</item>
+        <item>www.istanbul.net.tr
+</item>
+        <item>www.denizmuzesi.dzkk.tsk.tr
+</item>
+        <item>www.istanbularkeoloji.gov.tr
+</item>
+        <item>www.hho.edu.tr
+</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="museum_working_hours">
+        <item>09:00-17:00
+</item>
+        <item>10:00-17:00
+</item>
+        <item>10:00-18:00
+</item>
+        <item>09:00-16:30
+</item>
+        <item>10:00-19:00
+</item>
+        <item>10:00-18:00
+</item>
+        <item>09:30-16:30
+</item>
+        <item>09:00-17:00
+</item>
+        <item>09:00-19:00
+</item>
+        <item>09:00-17:00
+</item>
+        <item>09:00-16:30
+</item>
+    </string-array>
+
+    <string-array name="museum_description">
+        <item>The Turkish and Islamic Arts Museum is a museum located in Sultanahmet Square in Fatih district of Istanbul, Turkey. Constructed in 1524, the building was formerly the palace of Pargalı Ibrahim Pasha, who was the second grand vizier to Suleiman the Magnificent, and was once thought to have been the husband of the Sultan\'s sister, Hatice Sultan.
+</item>
+        <item>The Rahmi M. Koç Museum is a private industrial museum in Istanbul, Turkey dedicated to history of transport, industry and communications. Rahmi M. Koç, member of the wealthiest dynasty in Turkey and retired boss of the Koç Group, founded the museum in 1991, which was opened on December 13, 1994. The museum is located in the suburb of Hasköy on the north shore of the Golden Horn and situated in two historical buildings connected to each other. It is open to public every day except Monday.
+</item>
+        <item>İstanbul Modern, a.k.a. Istanbul Museum of Modern Art, is a museum of contemporary art in the Beyoğlu district of Istanbul, Turkey. Inaugurated on December 11, 2004, the museum focuses on artists from Turkey.
+</item>
+        <item>The Chora Museum  is a medieval Byzantine Greek Orthodox church preserved as the Chora Museum in the Edirnekapı neighborhood of Istanbul. The neighborhood is situated in the western part of the municipality of the Fatih district. In the 16th century, during the Ottoman era, the church was converted into a mosque; it became a museum in 1948.
+</item>
+        <item>Pera Museum is an art museum in the Tepebaşı quarter of the Beyoğlu (Pera) district in Istanbul, Turkey, located at Meşrutiyet Avenue No. 65 (adjacent to İstiklal Avenue and in close proximity to Taksim Square). It has a particular focus on Orientalism in 19th-century art.
+</item>
+        <item>The Sabancı University Sakıp Sabancı Museum is a private fine arts museum in Istanbul, Turkey, dedicated to calligraphic art, religious and state documents, as well as paintings of the Ottoman era. The museum was founded by Sakıp Sabancı, and was opened in June 2002. Aside from permanent exhibitions, the museum also hosts national and foreign temporary exhibitions and, hosts cultural events on the weekends.
+</item>
+        <item>Istanbul Military Museum is dedicated to one thousand years of Turkish military history. It is one of the leading museums of its kind in the world.
+</item>
+        <item>The Istanbul Naval Museum is a national naval museum, located at Beşiktaş district of Istanbul in Turkey. It was established in 1897 by the Ottoman Minister of Navy Bozcaadalı Hasan Hüsnü Pasha. The museum contains an important collection of military artifacts pertaining to the Ottoman Navy.
+</item>
+        <item>"The Istanbul Archaeology Museums is a group of three archeological museums located in the Eminönü district of Istanbul, Turkey, near Gülhane Park and Topkapı Palace.
+The Istanbul Archaeology Museums consists of three museums: Archaeological Museum (in the main building), Museum of the Ancient Orient and Museum of Islamic Art (in the Tiled Kiosk).
+It houses over one million objects that represent almost all of the eras and civilizations in world history."
+</item>
+        <item>The Istanbul Aviation Museum, a.k.a. Turkish Air Force Museum, is a military-based museum for aviation, owned and operated by the Turkish Air Force. The museum is located in Yeşilköy neighborhood of Bakırköy district in Istanbul, Turkey. The area of the museum is 65,000 m2 (700,000 sq ft).
+</item>
+        <item>"The Galata Mevlevihanesi, or tekke (TEHK-keh), is a Mevlevi Whirling Dervish hall on Galipdede Caddesi just south of Tünel Square, at the southern end of Beyoğlu's İstiklal Caddesi in Istanbul.
+The Galata tekke has a long and revered history, having been founded in 1491 by a Ottoman grandee from the palace of Sultan Beyazit II. The tekke\'s first sheikh was Muhammed Semaî Sultan Divanî, a descendant of Mevlâna Jelaleddin Rumî himself."
+</item>
+    </string-array>
+
+
+    <string-array name="cafe_restaurant_name">
+        <item>Balkon Cafe &amp; Restaurant
+</item>
+        <item>Aruna A La Carte
+</item>
+        <item>Nusr-Et Steakhouse
+</item>
+        <item>Bist Cafe &amp; Restaurant
+</item>
+        <item>Boon Cafe &amp; Restaurant
+</item>
+        <item>Netto Cafe &amp; Restaurant
+</item>
+        <item>Moody\'s Cafe &amp; Restaurant
+</item>
+        <item>WestMix Cafe &amp; Restaurant
+</item>
+    </string-array>
+
+    <string-array name="cafe_restaurant_latitude">
+        <item>41.018127
+        </item>
+        <item>41.000009
+        </item>
+        <item>41.081435
+        </item>
+        <item>40.908529
+        </item>
+        <item>41.051461
+        </item>
+        <item>41.044752
+        </item>
+        <item>41.073509
+        </item>
+        <item>40.992170
+        </item>
+    </string-array>
+
+    <string-array name="cafe_restaurant_longitude">
+        <item>28.597195
+        </item>
+        <item>29.033478
+        </item>
+        <item>29.139652
+        </item>
+        <item>29.052551
+        </item>
+        <item>28.913601
+        </item>
+        <item>28.243760
+        </item>
+        <item>28.713914
+        </item>
+        <item>29.026872
+        </item>
+    </string-array>
+
+<string-array name="cafe_restaurant_short_address">
+    <item>Beylikdüzü
+</item>
+    <item>Beylikdüzü
+</item>
+    <item>Beşiktaş
+</item>
+    <item>Maltepe
+</item>
+    <item>Üsküdar
+</item>
+    <item>Bayrampaşa
+</item>
+    <item>Silivri
+</item>
+    <item>Avcılar
+</item>
+</string-array>
+
+    <string-array name="cafe_restauran_long_address">
+        <item>Barbaros Hayrettin Paşa Mahallesi, Nazım Hikmet Blv 83/131, 34515 Beylikdüzü/İstanbul
+</item>
+        <item>Pınartepe Mah., Sahilyolu Cad. 1/A, 34528 Beylikdüzü/Büyükçekmece/İstanbul
+</item>
+        <item>Etiler Mahallesi, Nispetiye Cd No:87, 34337 Beşiktaş/İstanbul
+</item>
+        <item>Yalı Mahallesi, Sahilyolu Cd. 62/A, 34844 Maltepe/İstanbul
+</item>
+        <item>Çengelköy Mahallesi, Kara Sk. 1A/B, 34680 Üsküdar/İstanbul
+</item>
+        <item>Yenidoğan Mahallesi, Cicoz Yolu Cd No:32, 34040 Bayrampaşa/İstanbul
+</item>
+        <item>Piri Mehmet Paşa Mahallesi, Atatürk Cd. No:35, 34570 Silivri/İstanbul
+</item>
+        <item>Üniversite Mah. E-5 Yanyol Pelican Mall AVM No:42/51, 34320 Avcılar/İstanbul
+</item>
+    </string-array>
+
+    <string-array name="cafe_restauran_phone">
+        <item>+90 (0212) 852 67 23
+</item>
+        <item>+90 (0212) 880 12 21
+</item>
+        <item>+90 (0212) 358 30 22
+</item>
+        <item>+90 (0216) 383 52 99
+</item>
+        <item>+90 (0216) 422 10 40
+</item>
+        <item>+90 (0212) 674 83 83
+</item>
+        <item>+90 (0212) 284 61 61
+</item>
+        <item>+90 (0212) 699 99 31
+</item>
+    </string-array>
+
+    <string-array name="cafe_restauran_webpage">
+        <item>www.balkoncafe.com/beylikduzu
+</item>
+        <item>www.arunakafe.com
+</item>
+        <item>www.nusr-et.com.tr
+</item>
+        <item>www.bahceistanbul.com.tr
+</item>
+        <item></item>
+        <item>www.nettocafe.com
+</item>
+        <item>moodyscafe.com.tr
+</item>
+        <item>www.westmix.com.tr
+</item>
+    </string-array>
+
+    <string-array name="cafe_restaurant_working_hours">
+        <item>08:00-02:00
+</item>
+        <item>08:00-00:00
+</item>
+        <item>12:00-01:00
+</item>
+        <item>08:00-00:00
+</item>
+        <item>08:30-02:00
+</item>
+        <item>09:00-00:00
+</item>
+        <item>08:00-00:00
+</item>
+        <item>09:00-00:00
+</item>
+    </string-array>
+
+    <string-array name="cinema_name">
+        <item>Rexx Cinema
+</item>
+        <item>Cinemaximum Historia
+</item>
+        <item>Cinemaximum Forum İstanbul
+</item>
+        <item>Cinemaximum City\'s Nişantaşı
+</item>
+        <item>Atlas Cinemas
+</item>
+        <item>Fitaş Cinema
+</item>
+        <item>Cinema Pink
+</item>
+        <item>Cinemaximum Trump Towers
+</item>
+    </string-array>
+
+    <string-array name="cinema_latitude">
+        <item>40.988407
+        </item>
+        <item>41.015266
+        </item>
+        <item>41.047972
+        </item>
+        <item>41.052065
+        </item>
+        <item>41.035056
+        </item>
+        <item>41.036127
+        </item>
+        <item>41.078146
+        </item>
+        <item>41.070058
+        </item>
+    </string-array>
+
+    <string-array name="cinema_longitude">
+        <item>29.026872
+        </item>
+        <item>28.945177
+        </item>
+        <item>28.898052
+        </item>
+        <item>28.992869
+        </item>
+        <item>28.979174
+        </item>
+        <item>28.982894
+        </item>
+        <item>28.251413
+        </item>
+        <item>28.992514
+        </item>
+    </string-array>
+    <string-array name="cinema_short_address">
+        <item>Kadıköy
+</item>
+        <item>Fatih
+</item>
+        <item>Bayrampaşa
+</item>
+        <item>Şişli
+</item>
+        <item>Beyoğlu
+</item>
+        <item>Beyoğlu
+</item>
+        <item>Silivri
+</item>
+        <item>Şişli
+</item>
+    </string-array>
+    <string-array name="cinema_long_address">
+        <item>Caferağa Mahallesi, Sakız Gülü Sk. No:20, 34710 Kadıköy/İstanbul
+</item>
+        <item>İskenderpaşa Mahallesi, Vatan Cad. Historia AVM No:2, 34912 Aksaray/Fatih/İstanbul
+</item>
+        <item>Sağmalcılar Mah. Sf Blok No:106, 34200 Bayrampaşa/İstanbul
+</item>
+        <item>Teşvikiye Cad. City\'s Nişantaşı Alışveriş Merkezi No:162, 34204 İstanbul
+</item>
+        <item>Kuloğlu Mh., İstiklal Cd. Atlas Pasajı No:131, 34433 Beyoğlu/İstanbul
+</item>
+        <item>Şehit Muhtar Mahallesi, İstiklal Cad. No:12, 34435 Beyoğlu/İstanbul
+</item>
+        <item>Yeni Mahallesi, G. İhsan Türkkan Cd. Kipa Alışveriş Merkezi No:30, 34570 Silivri/İstanbul
+</item>
+        <item>Büyükdere Cad. Trump Towers, Şişli Mecidiyeköy, 34204 İstanbul
+</item>
+    </string-array>
+    <string-array name="cinema_phone">
+        <item>+90 (0216) 337 05 65
+</item>
+        <item></item>
+        <item>+90 (0212) 670 21 31
+</item>
+        <item>+90 0850 220 0967
+</item>
+        <item>+90 (0212) 252 85 76
+</item>
+        <item>+90 (0212) 251 20 20
+</item>
+        <item>+90 (0212) 729 01 20
+</item>
+        <item>+90 (0212) 216 21 71
+</item>
+    </string-array>
+    <string-array name="cinema_webpage">
+        <item>www.rexx-online.com
+</item>
+        <item>www.cinemaximum.com.tr
+</item>
+        <item>www.cinemaximum.com.tr
+</item>
+        <item>www.cinemaximum.com.tr
+</item>
+        <item>www.beyogluatlas.com
+</item>
+        <item>www.fitas.com.tr
+</item>
+        <item>www.cinemapink.com
+</item>
+        <item>www.cinemaximum.com.tr
+</item>
+    </string-array>
+
+    <string-array name="shopping_name">
+        <item>Mall of İstanbul
+</item>
+        <item>Cevahir Shopping Centre
+</item>
+        <item>Forum İstanbul
+</item>
+        <item>İstinye Park
+</item>
+        <item>Viaport Shopping Centre
+</item>
+        <item>Galleria Shopping Centre
+</item>
+        <item>Akmerkez Shopping Mall
+</item>
+        <item>Astoria Shopping Centre
+</item>
+    </string-array>
+
+    <string-array name="shopping_latitude">
+        <item>41.063819
+        </item>
+        <item>41.064069
+        </item>
+        <item>41.048182
+        </item>
+        <item>41.110908
+        </item>
+        <item>40.939227
+        </item>
+        <item>40.974856
+        </item>
+        <item>41.077733
+        </item>
+        <item>41.068738
+        </item>
+    </string-array>
+    <string-array name="shopping_longitude">
+        <item> 28.807746
+        </item>
+        <item>28.992843
+        </item>
+        <item> 28.897892
+        </item>
+        <item>29.032422
+        </item>
+        <item> 29.323883
+        </item>
+        <item>28.869538
+        </item>
+        <item> 29.026991
+        </item>
+        <item>29.005794
+        </item>
+    </string-array>
+    <string-array name="shopping_short_address">
+        <item>Başakşehir
+</item>
+        <item>Şişli
+</item>
+        <item>Bayrampaşa
+</item>
+        <item>Sarıyer
+</item>
+        <item>Pendik
+</item>
+        <item>Bakırköy
+</item>
+        <item>Beşiktaş
+</item>
+        <item>Şişli
+</item>
+    </string-array>
+    <string-array name="shopping_long_address">
+        <item>Ziya Gökalp Mahallesi, Süleyman Demirel Blv No:7, 34306 İkitelli Osb/Başakşehir/İstanbul
+</item>
+        <item>19 Mayıs Mahallesi Büyükdere Cad. Cevahir AVM 136/22, 34100 İstanbul
+</item>
+        <item>Kocatepe Mahallesi, Paşa Cd, 34045 Bayrampaşa/İstanbul
+</item>
+        <item>Pınar Mahallesi, Katar Cd No:73, 34460 Sarıyer/İstanbul
+</item>
+        <item>Adres: Yenişehir Mah., Dedepaşa Cad. No:19, 34912 Pendik/İstanbul
+</item>
+        <item>Ataköy 1. Mahallesi, Rauf Orbay Cd., 34158 Bakırköy/İstanbul
+</item>
+        <item> Kültür Mahallesi, Nispetiye Cd No:56, 34340 Beşiktaş/İstanbul
+</item>
+        <item>Esentepe Mahallesi, Büyükdere Cad. Astoria Kuleleri No:127, 34394 Esentepe/Şişli/İstanbul
+</item>
+    </string-array>
+    <string-array name="shopping_phone">
+        <item>+90 (0212) 801 10 00
+</item>
+        <item>+90 (0212) 368 69 00
+</item>
+        <item>+90  (0212) 443 13 50
+</item>
+        <item>+90 (0212) 345 55 55
+</item>
+        <item>+90 (0216) 696 10 01
+</item>
+        <item>+90 (0212) 559 95 60
+</item>
+        <item>+90 (0212) 282 01 70
+</item>
+        <item>+90 (0212) 215 22 22
+</item>
+    </string-array>
+    <string-array name="shopping_webpage">
+        <item>www.mallofistanbul.com.tr
+</item>
+        <item>www.istanbulcevahir.com
+</item>
+        <item>www.forumistanbul.com.tr
+</item>
+        <item>www.istinyepark.com
+</item>
+        <item>www.viaport.com.tr
+</item>
+        <item>www.istanbulview.com/galleria-istanbul
+</item>
+        <item>www.akmerkez.com.tr
+</item>
+        <item>www.astoria.com.tr
+</item>
+    </string-array>
+    <string-array name="shopping_working_hours">
+        <item>10:00-22:30
+</item>
+        <item>10:00-22:00
+</item>
+        <item>10:00-22:00
+</item>
+        <item>10:00-22:00
+</item>
+        <item>10:00-22:00
+</item>
+        <item>10:00-22:00
+</item>
+        <item>10:00-22:00
+</item>
+        <item>10:00-22:00
+</item>
+    </string-array>
+
+    <string-array name="hotel_name">
+        <item>Grand Cevahir Hotel
+</item>
+        <item>Wyndham Grand İstanbul Europe
+</item>
+        <item>Hotel Suadiye
+</item>
+        <item>Burgu Arjaan by Rotana
+</item>
+        <item>Radisson Blu Hotel
+</item>
+        <item>Hotel Mercure İstanbul Topkapı
+</item>
+        <item>Armada Hotel
+</item>
+        <item>Divan İstanbul Asia
+</item>
+    </string-array>
+
+    <string-array name="hotel_latitude">
+        <item>41.064382
+        </item>
+        <item>41.027524
+        </item>
+        <item>40.957469
+        </item>
+        <item>40.937157
+        </item>
+        <item>41.012721
+        </item>
+        <item>41.014506
+        </item>
+        <item>41.004760
+        </item>
+        <item>40.870241
+        </item>
+    </string-array>
+    <string-array name="hotel_longitude">
+        <item>28.982326
+        </item>
+        <item>28.814494
+        </item>
+        <item> 29.080781
+        </item>
+        <item>29.136030
+        </item>
+        <item>28.958327
+        </item>
+        <item>28.907260
+        </item>
+        <item>28.981463
+        </item>
+        <item>29.270592
+        </item>
+    </string-array>
+    <string-array name="hotel_short_address">
+        <item>Şişli
+</item>
+        <item>Bağcılar
+</item>
+        <item>Kadıköy
+</item>
+        <item>Maltepe
+</item>
+        <item>Fatih
+</item>
+        <item>Zeytinburnu
+</item>
+        <item>Fatih
+</item>
+        <item>Pendik
+</item>
+    </string-array>
+
+    <string-array name="hotel_long_address">
+        <item>H. Edip Adıvar Mahallesi, Darülaceze Cd. No:9, 34382 Şişli/İstanbul
+</item>
+        <item>Mimar Sinan Caddesi 80-82 Güneşli İstanbul, 34212 İstanbul
+</item>
+        <item>Suadiye Mh., Bağdat caddesi, Plaj Yolu Sokak No:25, 34740 Kadıköy/İstanbul
+</item>
+        <item>Altayçeşme Mahallesi, Samanyolu Sk. No:23, 34843 Maltepe/İstanbul
+</item>
+        <item>Harikzadeler Sokak, No:48, Fatih/İstanbul
+</item>
+        <item>Merkezefendi Mahallesi, Mevlana Cd. No:1121, 34150 Zeytinburnu/İstanbul
+</item>
+        <item>Cankurtaran Mh., Ahırkapı Cd No:24, 34122 Fatih/İstanbul
+</item>
+        <item>Çamçeşme Mahallesi, 209, Tevfik İleri Cd, 34899 Pendik/İstanbul
+</item>
+    </string-array>
+
+    <string-array name="hotel_phone">
+        <item>+90 (0212) 314 42 42
+</item>
+        <item>+90 (0212) 464 00 00
+</item>
+        <item>+90 (0216) 445 84 24
+</item>
+        <item>+90 (0216) 500 77 77
+</item>
+        <item>+90 (0212) 511 78 74
+</item>
+        <item>+90 (0212) 665 75 75
+</item>
+        <item>+90 (0212) 455 44 55
+</item>
+        <item>+90 (0216) 625 00 00
+</item>
+
+    </string-array>
+
+    <string-array name="hotel_webpage">
+        <item>www.gch.com.tr
+</item>
+        <item>www.wyndhamgrandistanbuleurope.com
+</item>
+        <item>www.hotelsuadiye.com
+</item>
+        <item>www.rotana.com/arjaanhotelapartments
+</item>
+        <item>www.klashotel.com.tr
+</item>
+        <item>www.mercureistanbultopkapi.com
+</item>
+        <item>www.armadahotel.com.tr
+</item>
+        <item>www.divan.com.tr
+</item>
+    </string-array>
+
+    <string-array name="hotel_price">
+        <item>282₺
+</item>
+        <item>289₺
+</item>
+        <item>189₺
+</item>
+        <item>169₺
+</item>
+        <item>166₺
+</item>
+        <item>301₺
+</item>
+        <item>289₺
+</item>
+        <item>213₺
+</item>
+
+    </string-array>
+
+    <string-array name="hospital_name">
+        <item>Acıbadem International Hospital
+</item>
+        <item>Florence Nightingale Hospital
+</item>
+        <item>Liv Hospital
+</item>
+        <item>Nişantaşı Hospital
+</item>
+        <item>Medicana International Hospital
+</item>
+        <item>American Hospital
+</item>
+    </string-array>
+
+    <string-array name="hospital_latitude">
+        <item>40.959634
+        </item>
+        <item>41.063935
+        </item>
+        <item>41.061870
+        </item>
+        <item>41.055740
+        </item>
+        <item>41.013982
+        </item>
+        <item>41.053932
+        </item>
+    </string-array>
+
+    <string-array name="hospital_longitude">
+        <item>28.835434
+        </item>
+        <item>29.003906
+        </item>
+        <item>29.028663
+        </item>
+        <item>28.996052
+        </item>
+        <item>28.645475
+        </item>
+        <item>28.995403
+        </item>
+    </string-array>
+
+    <string-array name="hospital_short_address">
+        <item>Bakırköy
+</item>
+        <item>Beşiktaş
+</item>
+        <item>Beşiktaş
+</item>
+        <item>Şişli
+</item>
+        <item>Beylikdüzü
+</item>
+        <item>Şişli
+</item>
+    </string-array>
+
+    <string-array name="hospital_long_address">
+        <item>Yeşilköy Mahallesi, İstanbul Caddesi No:82, 34149 Bakırköy/İstanbul
+</item>
+        <item>Gayrettepe Mahallesi, Cemil Aslan Güder Sk. No:8, 34349 Beşiktaş/İstanbul
+</item>
+        <item>Ulus Mahallesi, Canan Sk., 34340 Beşiktaş/İstanbul
+</item>
+        <item>Teşvikiye, Fulya Sk. No:5, 34365 Şişli/İstanbul
+</item>
+        <item>Büyükşehir Mahallesi, Beylikdüzü Cd. No:3, 34520 Beylikdüzü/İstanbul
+</item>
+        <item>Teşvikiye, Güzelbahçe Sk. No:20, 34365 Şişli/İstanbul
+</item>
+    </string-array>
+
+    <string-array name="hospital_phone">
+        <item>+90 (0212) 468 44 44
+</item>
+        <item>444 0 436
+</item>
+        <item>+90 0850 222 2548
+</item>
+        <item>+90 (0212) 219 19 09
+</item>
+        <item>+90 (0212) 867 75 00
+</item>
+        <item>444 3 777
+</item>
+    </string-array>
+
+    <string-array name="hospital_webpage">
+        <item>www.acibadem.com.tr
+</item>
+        <item>www.florence.com.tr
+</item>
+        <item>www.livhospital.com
+</item>
+        <item>www.nisantasihastanesi.com.tr
+</item>
+        <item>www.medicanainternational.com
+</item>
+        <item>www.americanhospitalistanbul.com
+</item>
+    </string-array>
+
+    <string-array name="hospital_working_hours">
+        <item>Open for 24 hours
+</item>
+        <item>Open for 24 hours
+</item>
+        <item>08:00-17:30
+</item>
+        <item>Open for 24 hours
+</item>
+        <item>Open for 24 hours
+</item>
+        <item>Open for 24 hours
+</item>
+    </string-array>
+
+    <string-array name="bus_name">
+        <item>Esenler Main Bus Terminal
+</item>
+        <item>Harem Bus Terminal
+</item>
+        <item>Alibeyköy Bus Station
+</item>
+        <item>Rıhtım Bus Station
+</item>
+    </string-array>
+
+    <string-array name="bus_latitude">
+        <item>41.041179
+        </item>
+        <item>41.011432
+        </item>
+        <item>41.088287
+        </item>
+        <item>40.993458
+        </item>
+    </string-array>
+
+    <string-array name="bus_longitude">
+        <item>28.894674
+        </item>
+        <item>29.011827
+        </item>
+        <item>28.944957
+        </item>
+        <item>29.024865
+        </item>
+    </string-array>
+
+    <string-array name="bus_short_address">
+        <item>Bayrampaşa
+</item>
+        <item>Üsküdar
+</item>
+        <item>Eyüp
+</item>
+        <item>Kadıköy
+</item>
+    </string-array>
+
+    <string-array name="bus_long_address">
+        <item>Altıntepsi Mh., 34035 Bayrampaşa/İstanbul
+</item>
+        <item>Harem Otogarı, Selimiye Mahallesi, 34668 Üsküdar/İstanbul
+</item>
+        <item>Baraj Yolu Cd No:12, 34398 Eyüp/İstanbul
+</item>
+        <item>Osmanağa Mahallesi, Rıhtım Cd., 34714 Kadıköy/İstanbul
+</item>
+    </string-array>
+
+    <string-array name="bus_phone">
+        <item>+90 (0212) 658 05 05
+</item>
+        <item>+90 (0216) 428 19 58
+</item>
+        <item>+90 (0212) 520 05 24
+</item>
+        <item>+90 (0216) 446 25 75
+</item>
+    </string-array>
+
+    <string-array name="airport_name">
+        <item>Atatürk Airport
+</item>
+        <item>Sabiha Gökçen International Airport
+</item>
+    </string-array>
+
+    <string-array name="airport_latitude">
+        <item>40.982973
+        </item>
+        <item>40.904803
+        </item>
+    </string-array>
+
+    <string-array name="airport_longitude">
+        <item>28.810571
+        </item>
+        <item> 29.316774
+        </item>
+    </string-array>
+    <string-array name="airport_short_address">
+        <item>Bakırköy
+</item>
+        <item>Pendik
+</item>
+    </string-array>
+    <string-array name="airport_long_address">
+        <item>Yeşilköy Mahallesi, 34149 Bakırköy/İstanbul
+</item>
+        <item>Sanayi Mh., 34906 Pendik/İstanbul
+</item>
+    </string-array>
+
+    <string-array name="airport_phone">
+        <item>+90 (0212) 463 30 00
+</item>
+        <item>+90 (0216) 588 88 88
+</item>
+
+    </string-array>
+    <string-array name="airport_webpage">
+        <item>www.ataturkairport.com
+</item>
+        <item>www.sabihagokcen.aero
+</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
+
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_padding">16dp</dimen>
+
+    <dimen name="info_TV_size_normal">16sp</dimen>
+
+    <dimen name="info_TV_size_big">20sp</dimen>
+
+    <dimen name="card_size_big">20sp</dimen>
+
+    <dimen name="card_size_normal">18sp</dimen>
+
+    <dimen name="info_IV_dimension">20dp</dimen>
+
+    <dimen name="info_main_IV_height">200dp</dimen>
+
+    <dimen name="home_IV_dimension">190dp</dimen>
+
+    <dimen name="actionbar_text_size">18sp</dimen>
+
+    <dimen name="list_item_big_size">18sp</dimen>
+
+    <dimen name="list_item_small_size">16sp</dimen>
+
+    <dimen name="list_item_heigth">90dp</dimen>
+
+    <dimen name="list_image_width">120dp</dimen>
+
+    <dimen name="card_height">240dp</dimen>
+
+    <dimen name="card_image_height">140dp</dimen>
+
+</resources>

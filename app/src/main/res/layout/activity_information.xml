@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourguideapp.InformationFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/standard_padding"
+        tools:context="com.example.android.tourguideapp.InformationFragment">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/info_main_IV_height"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/name"
+            style="@style/info_title_TV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/description"
+            style="@style/info_TV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/work_hours_or_price"
+            style="@style/info_TV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/address_iv"
+                style="@style/info_IV"
+                android:layout_width="@dimen/info_IV_dimension"
+                android:layout_height="@dimen/info_IV_dimension" />
+
+            <TextView
+                android:id="@+id/long_address"
+                style="@style/info_TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/phone_iv"
+                style="@style/info_IV"
+                android:layout_width="@dimen/info_IV_dimension"
+                android:layout_height="@dimen/info_IV_dimension" />
+
+            <TextView
+                android:id="@+id/phone"
+                style="@style/info_TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/web_iv"
+                style="@style/info_IV"
+                android:layout_width="@dimen/info_IV_dimension"
+                android:layout_height="@dimen/info_IV_dimension" />
+
+            <TextView
+                android:id="@+id/webpage"
+                style="@style/info_TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

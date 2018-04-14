@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="info_TV">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_marginRight">@dimen/standard_padding</item>
+        <item name="android:layout_marginLeft">@dimen/standard_padding</item>
+        <item name="android:layout_marginTop">@dimen/standard_padding</item>
+        <item name="android:textSize">@dimen/info_TV_size_normal</item>
+    </style>
+
+    <style name="info_IV">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_marginLeft">@dimen/standard_padding</item>
+        <item name="android:layout_marginTop">@dimen/standard_padding</item>
+    </style>
+
+    <style name="info_title_TV">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_marginRight">@dimen/standard_padding</item>
+        <item name="android:layout_marginLeft">@dimen/standard_padding</item>
+        <item name="android:layout_marginTop">@dimen/standard_padding</item>
+        <item name="android:textSize">@dimen/info_TV_size_big</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabMaxWidth">0dp</item>
+        <item name="tabIndicatorColor">@color/tab_indicator_color</item>
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/tab_selected_text_color</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMode">fixed</item>
+    </style>
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@color/tab_text_color</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+</resources>

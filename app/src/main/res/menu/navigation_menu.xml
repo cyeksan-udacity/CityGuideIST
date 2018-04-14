@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popular_places"
+        android:icon="@drawable/ic_public"
+        android:title="@string/popular_places"
+        android:background="?android:attr/selectableItemBackground"/>
+
+    <item
+        android:id="@+id/museums"
+        android:icon="@drawable/ic_museum"
+        android:title="@string/museums"
+        android:background="?android:attr/selectableItemBackground"/>
+
+    <item
+        android:id="@+id/cafe_restaurant"
+        android:icon="@drawable/ic_cafe"
+        android:title="@string/cafe_restaurant"
+        android:background="?android:attr/selectableItemBackground"/>
+
+    <item
+        android:id="@+id/cinema"
+        android:icon="@drawable/ic_cinema"
+        android:title="@string/cinema"
+        android:background="?android:attr/selectableItemBackground"/>
+
+    <item
+        android:id="@+id/shopping"
+        android:icon="@drawable/ic_shopping"
+        android:title="@string/shopping"
+        android:background="?android:attr/selectableItemBackground"/>
+
+    <item
+        android:id="@+id/hotels"
+        android:icon="@drawable/ic_hotel"
+        android:title="@string/hotels"
+        android:background="?android:attr/selectableItemBackground"/>
+
+    <item
+        android:id="@+id/hospitals"
+        android:icon="@drawable/ic_local_hospital"
+        android:title="@string/hospitals"
+        android:background="?android:attr/selectableItemBackground"/>
+
+    <item android:title="@string/transportation">
+        <menu>
+            <item
+                android:id="@+id/bus"
+                android:icon="@drawable/ic_action_bus"
+                android:title="@string/bus"
+                android:background="?android:attr/selectableItemBackground"/>
+            <item
+                android:id="@+id/airports"
+                android:icon="@drawable/ic_local_airport"
+                android:title="@string/airports"
+                android:background="?android:attr/selectableItemBackground"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/standard_padding"
+        android:text="@string/home"
+        android:textColor="@color/white"
+        android:textSize="@dimen/actionbar_text_size" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/home_IV_dimension"
+        android:scaleType="centerCrop"
+        android:src="@drawable/istanbul" />
+
+</LinearLayout>
