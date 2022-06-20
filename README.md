@@ -1,3 +1,5 @@
+[![CityGuideIST](https://img.youtube.com/vi/O0XCcH9MejQ/0.jpg)](https://www.youtube.com/watch?v=O0XCcH9MejQ)
+
 PROJECT LICENSE
 
 This project was submitted by Cansu Yeksan Aktas as part of the Android Basics Nanodegree At Udacity.
